@@ -11,7 +11,6 @@ pubspec.lock
 # Directory created by dartdoc
 # If you don't generate documentation locally you can remove this line.
 doc/api/
-
 import 'package:flutter/material.dart';
 
 void main() => runApp(new MyApp());
