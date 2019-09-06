@@ -1,2 +1,2 @@
-# Calci
-Calculator using Flutter
+### Calci
+ First fuctioning app build with Flutter and dart...
